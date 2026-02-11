@@ -50,7 +50,6 @@ function reducer(state: controlsState, action: ControlsAction): controlsState {
     default: 
       return state;
   }
-  return state;
 }
 
 function App() {
